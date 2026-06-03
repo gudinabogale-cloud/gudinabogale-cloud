@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm passionate about software development, network
  About Me
 
  🎓 Electrical and Computer Engineering Student
- 💻 Interested in Software Development and System Design
- 📱  Application Developer using Flutter
+  Interested in Software Development and System Design
+   Application Developer using Flutter
  🌐 Web Development Enthusiast
- 🖧 Networking and Computer Systems Learner
- 🔍 Always exploring new technologies and development practices
+ Networking and Computer Systems Learner
+  Always exploring new technologies and development practices
 
 
 
