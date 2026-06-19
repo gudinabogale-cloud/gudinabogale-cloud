@@ -1,90 +1,30 @@
-## Hi there 👋,  I'm Gudina Bogale
+<h1 align="center">Hi 👋, I'm Gudina Bogale</h1>
+<h3 align="center">A passionate web developer from Ethiopia</h3>
 
- Electrical and Computer Engineering Student | Web Developer | Networking Enthusiast | Mobile App Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gudinabogale-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="gudinabogale-cloud" /> </p>
 
-Welcome to my GitHub profile! I'm passionate about software development, networking, and technology. I enjoy building practical solutions that solve real-world problems and continuously learning new technologies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudinabogale-cloud" alt="gudinabogale-cloud" /></a> </p>
 
- About Me
+- 🔭 I’m currently working on [AI attendance System](https://github.com/gudinabogale-cloud/AI-Attendance-System)
 
- 🎓 Electrical and Computer Engineering Student
-  Interested in Software Development and System Design
-   Application Developer using Flutter
- 🌐 Web Development Enthusiast
- Networking and Computer Systems Learner
-  Always exploring new technologies and development practices
+- 👯 I’m looking to collaborate on [Internship management System](https://github.com/gudinabogale-cloud/student-internship-management-system)
 
+- 🤝 I’m looking for help with [SEE Our Country](https://github.com/gudinabogale-cloud/SEE-Our-country-with-Gudina)
 
+- 👨‍💻 All of my projects are available at [https://github.com/gudinabogale-cloud/gudinabogale-cloud](https://github.com/gudinabogale-cloud/gudinabogale-cloud)
 
-Technical Skills
+- 💬 Ask me about **java, python and frontend activity**
 
-Programming Languages
+- 📫 How to reach me **gudinabogale@gmail.com**
 
-* Dart
-* Java
-* JavaScript
-* Python
-* C++
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gudinabogale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudinabogale" height="30" width="40" /></a>
+</p>
 
-Web Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
-* HTML
-* CSS
-* JavaScript
-* python
-* Node.js
-* Express.js
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gudinabogale-cloud&show_icons=true&locale=en" alt="gudinabogale-cloud" /></p>
 
- Databases
-
-* MySQL
-* Appwrite Database
-* mongoDB
-Networking
-
-* Network Fundamentals
-* TCP/IP
-* Routing and Switching
-
-Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Linux
-
- Featured Projects
-
-🎓 Student Internship Management System
-
-A web-based platform that connects students, companies, coordinators, and administrators to manage internship opportunities efficiently.
-
-Technologies: Flutter, Node.js, Firebase, Appwrite
-
- 🌍 SEE Our Country with Gudina
-
-A project designed to promote tourism and showcase important places, culture, and attractions.
-
-Technologies: Flutter, Firebase
-
-
- Currently Learning
-
-* Advanced Flutter Development
-* Backend Development with Node.js
-* Computer Networking
-* Artificial Intelligence and Machine Learning
-  
- Contact Me
-
- 📧 Email: [gudinabogle@gmail.com](mailto:gudinabogle@gmail.com)
-  GitHub: https://github.com/gudinabogale-cloud
-
-🎯 Career Goal
-
-My goal is to become a skilled Software Engineer and Computer Networking Professional, contributing to innovative technologies that make a positive impact on society.
-
----
-
-Thank you for visiting my GitHub profile!
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gudinabogale-cloud&" alt="gudinabogale-cloud" /></p>
